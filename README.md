@@ -7,9 +7,9 @@ Frontend wizard, backend adventurer, and overall curious mind on a mission to cr
 I’m fluent in:
 
 - **Languages:** JavaScript, TypeScript (learning fast), HTML, CSS
-- **Frontend Magic:** React ⚛️, Next.js, Tailwind CSS, Zustand, Redux Toolkit
+- **Frontend Magic:** React ⚛️, Tailwind CSS, Zustand
 - **Backend Basics:** Node.js, Express.js, MongoDB, Mongoose
-- **Extras I Actually Use:** Git/GitHub, Postman, VS Code, Netlify, Vercel
+- **Extras I Actually Use:** Git/GitHub, Postman, VS Code, Netlify, Vercel, Render, Railway
 
 ## 🔥 What I'm Cooking
 

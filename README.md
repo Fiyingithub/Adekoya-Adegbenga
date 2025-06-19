@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/27171371/155369447-b863cae9-8e6e-4efb-992b-b5f4f9a28a90.png" />
+![My Avatar](https://github.com/Fiyigithub.png)
 
 # 👋 Hi, I'm @Fiyingithub - Adekoya Adegbenga
 
